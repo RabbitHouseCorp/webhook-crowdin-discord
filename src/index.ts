@@ -2,8 +2,8 @@ import bodyParser from 'body-parser';
 import express from 'express';
 import { eventIdentify } from './discord/utils/EmbedEvents';
 import { sendWebhook } from './discord/WebhookDiscord';
+import 'dotenv/config';
 
-require('dotenv').config()
 export interface Message {
   embeds?: Array<any>;
   content?: string;
