@@ -24,5 +24,5 @@ Default port is `8080` and you need to put webhook URL in Env
 Soon the Docker will be added to the project.
 
 ### Support
-If you found wrong ago with the API you can report the problem on the [server](https://discord.gg/Jr57UrsXeC) or [create a issue]()
+If you found wrong ago with the API you can report the problem on the [server](https://discord.gg/Jr57UrsXeC) or [create a issue](https://github.com/RabbitHouseCorp/webhook-crowdin-discord/issues/new)
 
