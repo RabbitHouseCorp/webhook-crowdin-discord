@@ -2,9 +2,9 @@
 An API limited to webhook only and using ExpressJS for WebServer use. 
 
 ### How does it work?
-`npm run build`:
+- `npm run build`:
 To build the `Dist` folder.
-`npm run start`:
+- `npm run start`:
 To start the webserver
 
 ## How to configure webhook in crowdin?
