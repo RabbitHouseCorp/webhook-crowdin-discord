@@ -1,10 +1,6 @@
 # Webhook Crowdin for Discord
 An API limited to webhook only and using ExpressJS for WebServer use. 
 
-
-### You can use in
-- Docker
-
 ### How does it work?
 `npm run build`:
 To build the `Dist` folder.
